@@ -9,4 +9,4 @@ Use Verilog/System Verilog for design
 
 Verilog Designs with Testbenches
 
-  Day 1: Half Adder
+    Day 1: Half Adder
